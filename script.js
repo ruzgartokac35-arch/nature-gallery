@@ -1,6 +1,6 @@
 const API_KEY = "qmgrqILqxhZlADIoqpqJhYXBZiG3cdRdbwRkVqqCLsyg1KKZSmVhAiUD";
 
-const gallery = document.getElementById("gallery");
+const gallery = document.getElemntById("gallery");
 const searchInput = document.getElementById("searchInput");
 const searchBtn = document.getElementById("searchBtn");
 const loadMoreBtn = document.getElementById("loadMore");
